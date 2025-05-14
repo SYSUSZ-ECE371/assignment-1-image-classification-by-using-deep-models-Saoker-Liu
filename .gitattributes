@@ -1,0 +1,2 @@
+Ex[[:space:]]1/** filter=lfs diff=lfs merge=lfs -text
+Ex[[:space:]]2/** filter=lfs diff=lfs merge=lfs -text
